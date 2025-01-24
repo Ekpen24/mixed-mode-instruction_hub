@@ -1,2 +1,2 @@
-# mixed-mode-instruction_hub
-This project is designed to engage the hybrid learning instructions for accuracy and precision management
+# Hybrid-Learning-Hub
+physical (bricks &amp; mortal) and online digital learning hub
